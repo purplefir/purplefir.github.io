@@ -2,7 +2,7 @@
 
 We are a small software company based in Corvallis, Oregon.
 
-Our main (and only) product can be found at https://www.cytosnap.com. Cytosnap is computer vision tool that automates the common, tedious laboratory procedure of counting cells in a hemocytometer. It helps free scientists and researchers to do what they do best - science!
+Our main (and only) product is [Cytosnap](https://www.cytosnap.com), a computer vision tool that automates the common, tedious laboratory procedure of counting cells in a hemocytometer. It helps free scientists and researchers to do what they do best - science!
 
 These are some of the tools we used to build the app:
 
