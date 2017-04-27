@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Purple Fir Software, LLC.
 
-You can use the [editor on GitHub](https://github.com/purplefir/purplefir.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a small software company based in Corvallis, Oregon.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our main (and only) product can be found at https://www.cytosnap.com. Cytosnap is computer vision tool that automates the common, tedious laboratory procedure of counting cells in a hemocytometer. It helps free scientists and researchers to do what they do best - science!
 
-### Markdown
+These are some of the tools we used to build the app:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- SaltStack (devops)
+- Django REST Framework (services)
+- ReactJS (UI)
+- Phonegap (Mobile)
+- OpenCV and dlib (Computer vision)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/purplefir/purplefir.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Needless to say, we used a few awesome widgets and plugins from various individuals whose hard work makes projects like this possible.
